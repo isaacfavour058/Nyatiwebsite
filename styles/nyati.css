@@ -1,0 +1,182 @@
+.header{
+  display: flex;
+  margin-bottom: 20px;
+
+}
+.left-section{
+  margin-right: 650px;
+  margin-left: 30px;
+
+
+}
+.listmenu{
+
+}
+.navlink{
+  color: rgb(115,41,41);
+}
+.ulist{
+  display: flex;
+}
+.nyatitxt{
+  font-size: 50px;
+  margin-bottom: 5px;
+
+}
+.humantech{
+  font-size: 20px;
+
+}
+ul li{
+  list-style-type: none;
+  display: flex;
+}
+.navlink{
+  text-decoration: none;
+  margin: 8px;
+}
+.section2{
+  display: flex;
+  margin-bottom: 50px;
+}
+.body1{
+  margin-right: 430px;
+  margin-left: 40px;
+}
+.page{
+  color: rgb(115,41,41);
+}
+.hero{
+  background-color: rgb(255,245,218);
+}
+.hero1{
+  display: flex;
+  margin-left: 45px;
+  margin-bottom: 45px;
+}
+.aboutimg{
+  margin-right: 125px;
+  margin-top: 60px;
+
+}
+.class-title{
+  font-size: 28px;
+  font-family: sans-serif;
+  margin: 0px 0px 8px;
+  margin-bottom: 10px;
+
+}
+.class-text{
+  font-size: 18px;
+  font: bold;
+  font-family: sans-serif;
+}
+.about-txt{
+  width: 500px;
+  margin-top: 60px;
+  font-size: 2rem;
+  line-height: 1.75rem;
+}
+.hero2{
+  display: flex;
+}
+.part1{
+  margin-left: 45px;
+  margin-right: 135px;
+  margin-top: 25px;
+
+}
+.softimg{
+  border-radius: 45%;
+}
+.cloudimg{
+  border-radius: 45%;
+}
+.chatimg{
+  border-radius: 45%;
+}
+.title1{
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-bottom: 4px;
+}
+.text1{
+  font-size: 16px;
+  font-family: sans-serif;
+  width: 350px;
+  line-height: 1.75rem;
+  font-weight: 300;
+}
+.part2{
+  margin-top: none;
+  margin-right: 125px;
+
+}
+.title2{
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-bottom: 4px;
+}
+.text2{
+  font-size: 16px;
+  font-family: sans-serif;
+  width: 285px;
+  line-height: 1.75rem;
+  margin-bottom: 40px;
+}
+.part3{
+
+}
+.title3{
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-bottom: 4px;
+}
+
+.text3{
+  font-size: 16px;
+  font-family: sans-serif;
+  width: 300px;
+  line-height: 1.75rem;
+  margin-bottom: 40px;
+
+}
+.footersec{
+  display: flex;
+}
+.footerimg{
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.fmenulist{
+  margin-right: 400px;
+  text-decoration: none;
+  color: rgb(115,41,41);
+
+}
+.footermenu{
+  text-decoration: none;
+  color: rgb(115,41,41);
+}
+.footerhome{
+  font-size: 16px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: rgb(115,41,41); 
+
+}
+.footercontact{
+line-height: 1.75rem;
+font-size: 16px;
+font-family: sans-serif;
+}
+.footericons{
+  display: flex;
+
+}
+.tel{
+  text-decoration: none;
+  color: rgb(115,41,41);
+}
+
